@@ -4,16 +4,11 @@
 
 #include "Trie.h"
 #include <algorithm>
-#include <cctype>
 
 Trie::Trie(): root(nullptr) {
 }
 
 void Trie::insert(const std::string &prefix) {
-    const bool is_alpha = std::ranges::all_of(prefix, [](const char c) {
-        return std::isalpha(c);
-    });
-
     if (!is_alpha) return;
 
     std::string copy = prefix;
@@ -23,10 +18,18 @@ void Trie::insert(const std::string &prefix) {
 }
 
 bool Trie::search(const std::string &prefix) {
+    if (!is_alpha) return false;
+
     std::string copy = prefix;
     std::ranges::transform(copy, copy.begin(),
                            [](const char c) { return std::tolower(c); });
     return search(copy, root);
+}
+
+bool Trie::is_alpha(const std::string &word) const {
+    return std::ranges::all_of(word, [](const char c) {
+        return std::isalpha(c);
+    });
 }
 
 Node *Trie::insert(const std::string &prefix, Node *node) {

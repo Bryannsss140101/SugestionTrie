@@ -18,6 +18,8 @@ public:
 private:
     Node *root;
 
+    bool is_alpha(const std::string &word) const;
+
     Node *insert(const std::string &prefix, Node *node);
 
     Node *search(const std::string &prefix, Node *node);

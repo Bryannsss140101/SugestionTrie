@@ -19,6 +19,7 @@ int main() {
     cout << trie.search("hola") << endl;
     cout << trie.search("hola") << endl;
     cout << trie.search("z") << endl;
+    cout << trie.search("1") << endl;
 
     _getch();
     return 0;
