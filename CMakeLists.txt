@@ -4,7 +4,6 @@ project(TrieTree)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(TrieTree main.cpp
-        src/node/Node.cpp
         src/node/Node.h
         src/trie/Trie.cpp
         src/trie/Trie.h)
