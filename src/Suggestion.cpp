@@ -36,6 +36,7 @@ void Suggestion::search() {
     while (true) {
         std::string prefix;
         std::cout << "Enter your word: ", std::cin >> prefix;
+        std::cin.clear();
 
         const auto suggestions = trie.suggest(prefix);
 
