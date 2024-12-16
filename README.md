@@ -86,7 +86,7 @@ cd SugestionTrie
 ¡Las contribuciones son bienvenidas! Si encuentras algún bug o tienes sugerencias de mejora, no dudes en abrir un issue o hacer un pull request. Asegúrate de seguir estas pautas:
 
 1. Forkea el repositorio.
-2. Crea una nueva rama **(git checkout -b feature/new-functionality)**.
-4. Realiza tus cambios y haz commit **(git commit -m 'prefix: Type of functionality')**.
-6. Haz push a tu rama **(git push origin feature/new-functionality)**.
+2. Crea una nueva rama ```git checkout -b feature/new-functionality```.
+4. Realiza tus cambios y haz commit ```git commit -m 'prefix: Type of functionality'```.
+6. Haz push a tu rama ```git push origin feature/new-functionality```.
 8. Crea un pull request.
