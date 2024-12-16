@@ -1,1 +1,1 @@
-# SugestionSystem
+# SuggestionTrie
