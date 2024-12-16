@@ -1,6 +1,6 @@
 # SuggestionTrie
 
-Un proyecto en C++ que implementa un **Árbol Trie** combinado con un algoritmo de búsqueda en profundidad **(DFS)** para proporcionar sugerencias rápidas y eficientes basadas en prefijos. Este proyecto es ideal para comprender cómo los Tries, junto con técnicas de recorrido como DFS, pueden resolver problemas prácticos como el autocompletado y la búsqueda predictiva.
+Un proyecto en C++ que implementa un **Árbol Trie** combinado con un algoritmo de búsqueda en profundidad **(DFS)** para proporcionar sugerencias rápidas y eficientes basadas en prefijos, ideal para comprender cómo los Tries, junto con técnicas de recorrido como DFS, pueden resolver problemas prácticos como el autocompletado y la búsqueda predictiva.
 
 ## Tabla de Contenidos
 
