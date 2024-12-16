@@ -94,4 +94,4 @@ cd SugestionTrie
 
 ## Licencia
 
-Este proyecto está licenciado bajo la **Licencia MIT**. Para más detalles, consulta el archivo [LICENSE](lic/LICENSE.txt).
+Este proyecto está licenciado bajo la **Licencia MIT**. Para más detalles, consulta el archivo [LICENSE](LICENSE.txt).
