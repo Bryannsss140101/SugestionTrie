@@ -91,7 +91,3 @@ cd SugestionTrie
 4. Realiza tus cambios y haz commit **(git commit -m 'prefix: Type of functionality')**.
 6. Haz push a tu rama **(git push origin feature/new-functionality)**.
 8. Crea un pull request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la **Licencia MIT**. Para más detalles, consulta el archivo [LICENSE](LICENSE.txt).
