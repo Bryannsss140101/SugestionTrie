@@ -44,7 +44,7 @@ void Suggestion::search() {
             printf("No results were found for your search (%s)\n", prefix.c_str());
         else
             for (const auto &e: suggestions)
-                printf("|--------------> %s\n|\n", e.c_str());
+                printf("|--------------> %s\n", e.c_str());
 
         _getch();
         system("cls");
