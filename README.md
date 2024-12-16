@@ -75,7 +75,7 @@ El sistema permite sugerir palabras de forma rápida y sencilla, siendo ideal pa
   
 ## Implementación
 
-Para usar este proyecto, clona el repositorio y ejecuta el **main.cpp** desde de CLion.
+Para usar este proyecto, clona el repositorio y ejecuta el ```main.cpp``` desde de CLion.
 ```bash
 git clone https://github.com/Bryannsss140101/SugestionTrie.git
 cd SugestionTrie
