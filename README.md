@@ -16,7 +16,7 @@ El **Árbol Trie** es una herramienta eficiente para manejar palabras y encontra
 
 El sistema permite sugerir palabras de forma rápida y sencilla, siendo ideal para funciones como autocompletado o búsqueda rápida en listas grandes de texto. Es una solución práctica para optimizar tareas que trabajan con muchas palabras.
 
-<img src="assets/images/trie_tree.png" alt="Árbol Trie" width="300"/>
+<img src="assets/images/trie_tree.png" alt="Árbol Trie" width="200"/>
 
 ## Funciones
 
