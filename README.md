@@ -5,10 +5,9 @@ Un proyecto en C++ que implementa un Árbol Trie combinado con un algoritmo de b
 ## Tabla de Contenidos
 
 1. [Descripción](#descripción)
-3. [Funciones](#funciones)
-5. [Implementación](#implementación)
-6. [Contribuciones](#contribuciones)
-7. [Licencia](#licencia)
+2. [Funciones](#funciones)
+3. [Implementación](#implementación)
+4. [Contribuciones](#contribuciones)
 
 ## Descripción
 
