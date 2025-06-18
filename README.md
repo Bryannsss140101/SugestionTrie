@@ -1,9 +1,12 @@
+![status](https://img.shields.io/badge/status-finished-brightgreen)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+[![License](https://img.shields.io/badge/licencia-MIT-green)](https://github.com/Bryannsss140101/SugestionTrie/blob/main/LICENSE.txt)
+
 # SuggestionTrie
 
 Un proyecto en C++ que implementa un **Árbol Trie** combinado con un algoritmo de búsqueda en profundidad **(DFS)** para proporcionar sugerencias rápidas y eficientes basadas en prefijos, ideal para comprender cómo los Tries, junto con técnicas de recorrido como DFS, pueden resolver problemas prácticos como el autocompletado y la búsqueda predictiva.
 
-## Tabla de Contenidos
-
+### 📜 Tabla de contenido
 1. [Descripción](#descripción)
 2. [Funciones](#funciones)
 3. [Implementación](#implementación)
@@ -73,20 +76,30 @@ El sistema permite sugerir palabras de forma rápida y sencilla, siendo ideal pa
         }
     }
   
-## Implementación
-
-Para usar este proyecto, clona el repositorio y ejecuta el ```main.cpp``` desde de CLion.
+### 🖥️ Implementación
+Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp`.
 ```bash
 git clone https://github.com/Bryannsss140101/SugestionTrie.git
 cd SugestionTrie
 ```
 
-## Contribuciones
+### 🤝 Contribuciones
+¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes sugerencias de mejora, no dudes en abrir un issue o hacer un pull request. Sigue estos pasos para contribuir:
 
-¡Las contribuciones son bienvenidas! Si encuentras algún bug o tienes sugerencias de mejora, no dudes en abrir un issue o hacer un pull request. Asegúrate de seguir estas pautas:
+1. **Haz un fork**: Haz clic en "Fork" en GitHub para crear tu propia copia del proyecto.
+2. **Crea una nueva rama**:
+   ```bash
+   git checkout -b new-branch.
+   ```
+4. **Realiza los cambios necesarios**: Edita los archivos que necesites.
+5. **Haz commit de tus cambios**:
+   ```bash
+   git add .
+   git commit -m "My awesome commit"
+   ```
+7. **Sube tus cambios**:
+   ```bash
+   git push origin new-branch
+   ```
+9. **Crea un pull**: Dirigete a GitHub y crea un `pull request` para agregar tus cambios.
 
-1. Forkea el repositorio.
-2. Crea una nueva rama ```git checkout -b feature/new-functionality```.
-4. Realiza tus cambios y haz commit ```git commit -m 'prefix: Type of functionality'```.
-6. Haz push a tu rama ```git push origin feature/new-functionality```.
-8. Crea un pull request.
