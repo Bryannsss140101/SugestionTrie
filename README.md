@@ -1,10 +1,10 @@
-![status](https://img.shields.io/badge/status-inprocess-brightorange)
+![status](https://img.shields.io/badge/status-in_process-yellow)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
-[![License](https://img.shields.io/badge/licencia-MIT-green)](https://github.com/Bryannsss140101/SugestionTrie/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/licencia-MIT-orange)](https://github.com/Bryannsss140101/SugestionTrie/blob/main/LICENSE)
 
 # SuggestionTrie
 
-Un proyecto en C++ que implementa un **Árbol Trie** combinado con un algoritmo de búsqueda en profundidad **(DFS)** para proporcionar sugerencias rápidas y eficientes basadas en prefijos, ideal para comprender cómo los Tries, junto con técnicas de recorrido como DFS, pueden resolver problemas prácticos como el autocompletado y la búsqueda predictiva.
+Un proyecto en `C++` que implementa un `Árbol Trie` combinado con un algoritmo de búsqueda en profundidad `(DFS)` para ofrecer sugerencias rápidas y eficientes basadas en prefijos. Es ideal para aplicaciones de autocompletado y búsqueda predictiva, mostrando cómo los Tries y el DFS pueden optimizar el rendimiento en búsquedas interactivas.
 
 ### 📜 Tabla de contenido
 1. [Descripción](#descripción)
