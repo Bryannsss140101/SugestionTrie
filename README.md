@@ -10,7 +10,7 @@ Un proyecto en `C++` que implementa un `Árbol Trie` combinado con un algoritmo 
 1. [Descripción](#descripción)
 2. [Funciones](#funciones)
 3. [Implementación](#%EF%B8%8F-implementaci%C3%B3n)
-4. [Contribuciones](README.md#-contribuciones)
+4. [Contribuciones](#-contribuciones)
 
 ## Descripción
 
