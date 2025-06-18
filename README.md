@@ -1,4 +1,4 @@
-![status](https://img.shields.io/badge/status-finished-brightgreen)
+![status](https://img.shields.io/badge/status-inprocess-brightorange)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 [![License](https://img.shields.io/badge/licencia-MIT-green)](https://github.com/Bryannsss140101/SugestionTrie/blob/main/LICENSE)
 
