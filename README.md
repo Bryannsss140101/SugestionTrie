@@ -7,8 +7,8 @@
 Un proyecto en `C++` que implementa un `Árbol Trie` combinado con un algoritmo de búsqueda en profundidad `(DFS)` para ofrecer sugerencias rápidas y eficientes basadas en prefijos. Es ideal para aplicaciones de autocompletado y búsqueda predictiva, mejorando el rendimiento en búsquedas interactivas.
 
 ### 📜 Tabla de contenido
-1. [Descripción](#descripción)
-2. [Funciones](#funciones)
+1. [Descripción]
+2. [Funciones]
 3. [Implementación](#%EF%B8%8F-implementaci%C3%B3n)
 4. [Contribuciones](#-contribuciones)
   
